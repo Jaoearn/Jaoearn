@@ -1,9 +1,6 @@
-### Hi there 👋
+### 👀 About Me : 
 
-### 😄 About Me :
-
-I am a Back-End Developer 👀.
-
+#### I am a Back-End Developer .
 - 🔭 I’m working as a software engineer and contributing to backend for building web service.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Jaoearn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sutheera-preenan-06bb0126a/)
 
