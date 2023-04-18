@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
@@ -25,6 +25,11 @@
 </p>
 
 ---
+
+### ⚡ My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaoearn&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Jaoearn/Jaoearn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
