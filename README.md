@@ -1,12 +1,45 @@
-### 👀 About Me : 
+# 👋 Hi, I'm Earn &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sutheera-preenan-06bb0126a/) &nbsp; [![Canva Badge](https://img.shields.io/badge/-Resume-purple?style=flat&logo=Canva&logoColor=white)](https://www.canva.com/design/DAHBvGHF2FE/h-mr1ypW1fIdWEE2m6TDUQ/edit?utm_content=DAHBvGHF2FE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-#### I am a Back-End Developer .
-- 🔭 I’m working as a software engineer and contributing to backend for building web service.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sutheera-preenan-06bb0126a/) &nbsp; [![Canva Badge](https://img.shields.io/badge/-Resume-purple?style=flat&logo=Canva&logoColor=white)](https://www.canva.com/design/DAHBvGHF2FE/h-mr1ypW1fIdWEE2m6TDUQ/edit?utm_content=DAHBvGHF2FE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+💻 **Full Stack Developer** 
+🚀 Building scalable web applications with **.NET, React, and SQL**
+🤖 Passionate about leveraging **AI tools to accelerate development and boost productivity**
 
 ---
 
-### 🛠 Languages and Tools :
+## 👀 About Me
+
+* 🔭 Full Stack Developer with **2+ years of experience**
+* ⚡ Focused on **performance, clean architecture, and scalable systems**
+* 🤖 Interested in integrating **AI tools into development workflows**
+* 🌱 Currently learning **AI-assisted development & modern backend architecture**
+
+---
+
+## 🚀 Tech Stack
+
+**Frontend**
+
+* React
+* JavaScript / TypeScript
+* HTML / CSS
+* Tailwind / Bootstrap
+
+**Backend**
+
+* .NET / ASP.NET Core
+* REST API
+* C#
+
+**Database**
+
+* SQL Server
+
+**Tools**
+
+* Git / GitHub
+* Docker
+* Postman
+* VS Code / Visual Studio
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
@@ -17,18 +50,34 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="microsoftsqlserve"  alt="microsoftsqlserve" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
+
 
 ---
 
-### ⚡ My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaoearn&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaoearn&theme=github)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaoearn&theme=github)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaoearn&theme=github)
+
+---
+
+## 🌐 Connect with Me
+
+* 📫 Linkedin : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sutheera-preenan-06bb0126a/)
+* 📫 Resume : [![Canva Badge](https://img.shields.io/badge/-Resume-purple?style=flat&logo=Canva&logoColor=white)](https://www.canva.com/design/DAHBvGHF2FE/h-mr1ypW1fIdWEE2m6TDUQ/edit?utm_content=DAHBvGHF2FE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* 📫 Email : jaoearn.sp@gmail.com
+
+---
+
+⭐️ From [Jaoearn](https://github.com/Jaoearn)
 
 
 <!--
