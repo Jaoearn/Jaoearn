@@ -8,7 +8,7 @@
 
 ## 👀 About Me
 
-* 🔭 Full Stack Developer with **2+ years of experience**
+* 🔭 Full Stack Developer with **4+ years of experience**
 * ⚡ Focused on **performance, clean architecture, and scalable systems**
 * 🤖 Interested in integrating **AI tools into development workflows**
 * 🌱 Currently learning **AI-assisted development & modern backend architecture**
