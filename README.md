@@ -2,7 +2,7 @@
 
 #### I am a Back-End Developer .
 - 🔭 I’m working as a software engineer and contributing to backend for building web service.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Jaoearn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sutheera-preenan-06bb0126a/) &nbsp; [![Canva Badge](https://img.shields.io/badge/-Resume-purple?style=flat&logo=Canva&logoColor=white)](https://www.canva.com/design/DAFdX5IG8sI/iyD57HniTYg4IMK1c2PooQ/view?utm_content=DAFdX5IG8sI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Jaoearn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sutheera-preenan-06bb0126a/) &nbsp; [![Canva Badge](https://img.shields.io/badge/-Resume-purple?style=flat&logo=Canva&logoColor=white)](https://www.canva.com/design/DAHBvGHF2FE/h-mr1ypW1fIdWEE2m6TDUQ/edit?utm_content=DAHBvGHF2FE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
