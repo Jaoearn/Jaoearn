@@ -61,11 +61,13 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaoearn&theme=github)
+<div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaoearn&theme=github)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jaoearn&theme=github" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jaoearn&theme=github" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaoearn&theme=github" height="180em" />
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaoearn&theme=github)
+</div>
 
 ---
 
