@@ -17,29 +17,47 @@
 
 ## 🚀 Tech Stack
 
-**Frontend**
+<table style="border: none; border-collapse: collapse;">
+<tr>
+<td style="border: none;" valign="top" width="25%">
 
-* React
-* JavaScript / TypeScript
-* HTML / CSS
-* Tailwind / Bootstrap
+**🚀 Frontend**
 
-**Backend**
+- ASP.NET MVC  
+- React  
+- JavaScript / TypeScript  
+- HTML / CSS  
+- Tailwind / Bootstrap  
 
-* .NET / ASP.NET Core
-* REST API
-* C#
+</td>
+<td style="border: none;" valign="top" width="25%">
 
-**Database**
+**⚙️ Backend**
 
-* SQL Server
+- .NET / ASP.NET Core  
+- REST API  
+- C#  
 
-**Tools**
+</td>
+<td style="border: none;" valign="top" width="25%">
 
-* Git / GitHub
-* Docker
-* Postman
-* VS Code / Visual Studio
+**🗄️ Database**
+
+- SQL Server  
+
+</td>
+<td style="border: none;" valign="top" width="25%">
+
+**🛠️ Tools**
+
+- Git / GitHub  
+- Docker  
+- Postman  
+- VS Code / Visual Studio  
+
+</td>
+</tr>
+</table>
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
